@@ -1,0 +1,32 @@
+.cute-section {
+    min-height: 65vh;
+    background-image: url(mochi\ background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.d-flex {
+    display: flex;
+}
+
+.font-change {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.top-m {
+    margin-top: 15em
+}
+
+.magic-card {
+    position: absolute;
+    top: 80px;
+}
+
+.magic-container {
+    position: relative
+}
